@@ -49,8 +49,17 @@ let dados = [
   modosDeJogo: "Melhores modos de jogo: Combate Solitário, Combate Duplo, Roubo e Pique-Gema.",
   dicasEstrategias: "Dicas e Estratégias: O Edgar possui uma habilidade após utilizar seu super, em que ele ganha uma velocidade de movimentação maior. Isso possibilita utiliza-lo para pegar gemas no modo Pique-Gema e parafusos no Encurralado, recuando rapidamente. Utilizando seu Acessório, ele pode carregar seu super mais rapidamente, para fazer uma fuga ou emboscar brawlers com vida baixa. Ele pode driblar a bola bem no Fute-Brawl, já que pode usar seu Super para pular para a bola e agarrá-la, semelhante ao que o El Primo e Darryl fazem. Se estiver jogando contra um Frank, é recomendado atacar e usar a velocidade de Edgar a seu favor. Cada vez que o Frank ataca, há um atraso que Edgar pode mover atrás dele e causar dano sem receber dano. Tente ficar longe de brawlers com alto dano de explosão, como Surge, Shelly, Bull ou Jacky, pois eles tendem abater o Edgar em 2 ou 3 acertos caso esteja com pouca vida. Com seu Acessório “Alçar Voo”, Edgar pode carregar rapidamente seu Super para fazer uma fuga rápida ou emboscar um alvo com pouca vida. Também pode ser usado para obter um carregamento rápido da habilidade quando eles são mais necessários, como no início de uma partida, para avançar na batalha."
 
+},
+{
+  titulo: "Max",
+  imagem: "Imagem Max.png",
+  descricao: "Max é uma brawler mítica, famosa por sua velocidade incrível. Ela tem a habilidade única de aumentar a velocidade de seus aliados, o que a torna uma aliada valiosa em diversas situações.Seu ataque dispara vários projéteis rapidamente, causando dano em área. Sua Super ativa um impulso de velocidade para ela e seus aliados próximos, facilitando a captura de objetivos, a fuga e a perseguição de inimigos. Se adapta bem a diversos modos de jogo, sendo especialmente útil em modos que exigem movimentação rápida e trabalho em equipe.",
+  link: "https://pt.wikipedia.org/wiki.org/Brawl Stars#",
+  tags: "Velocidade velocidade VELOCIDADE Mitico mitico MITICO",
+  estatisticas: "Estatísticas: Vida = 6.600; Dano = 640 (por projetil); Velocidade = 820 (1.120 com super). (Todas as estatísticas com o brawler em nível de poder 11).",
+modosDeJogo: "Melhores modos de jogo: Roubo, Zona Estratégica, Robo Chefão e Fute-Brawl",
+dicasEstrategias: "Levando em consideração a velocidade que a Max corre, sempre ataque enquanto se movimenta. Combinando a Max com o Corvo como seu companheiro de equipe, use-a com o Corvo por perto, para fazê-lo se mover mais rápido e queimar/envenenar mais pelo mapa. Para maximizar a eficiência dos Poderes de Estrela da Max, não fique parado! O ataque principal da Max tem um alcance semelhante ao da Tara e, embora não cause muito dano, o fato dela ter 4 espaços de munição, juntamente com sua velocidade base muito mais alta, significa que ela pode fornecer dano supressor contra os inimigos para impedi-los de atacar/curar. No Fute-Brawl, use o Super da Max para ultrapassar a defesa e fazer gol no time adversário."
 }
-
 
 
     ];
