@@ -35,7 +35,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
   <h2>
     <a href="#" target="_blank">${dado.titulo}</a>
   </h2>
-  <img src = "${dado.imagem}" alt = "${dado.titulo}" width = "100" height = "100">
+  <img src = "${dado.imagem}" alt = "${dado.titulo}" width = "200" height = "200">
   <p class="descricao-meta">${dado.descricao}</p>
   <p class="descricao-meta">${dado.estatisticas}</p>
   <p class="descricao-meta">${dado.modosDeJogo}</p>
